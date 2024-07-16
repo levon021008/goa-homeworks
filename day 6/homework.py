@@ -1,3 +1,0 @@
-#name=("levon")
-
-print(name)
